@@ -1,0 +1,11 @@
+Two .cs files are there: calculator.exeadd.cs and calculator.exemultiply.cs
+
+Please follow below steps to run the program-
+1. Open Visual studio command prompt.
+2. Go to the location where you copied the files.
+3. run command: csc calculator.exeadd.cs 
+4. run command: csc calculator.exemultiply.cs
+5. run your tests using commands: calculator.exeadd 1,2,3 and calculator.exemultiply 1,5,9
+
+
+Thank you!
